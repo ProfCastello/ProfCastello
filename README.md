@@ -1,4 +1,4 @@
-<center>
+<div align="center">
   
 ### Olá eu sou o ProfCastello!
 
@@ -12,7 +12,7 @@
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfCastello&layout=compact&theme=dracula">
 </a> -->
 
-</center>
+</div>
 
 
 <div  align="center" style="margin-bottom:100px">
